@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00c6ff&height=200&section=header&text=Tsedeniya%20Dinku&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,100:34d399&height=200&section=header&text=Tsedeniya%20Dinku&fontSize=35&fontColor=ffffff" />
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
