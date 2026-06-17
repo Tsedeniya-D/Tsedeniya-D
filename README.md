@@ -57,14 +57,6 @@ I’m still growing, but I stay consistent and focus on improving every day.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tsedeniya-D&theme=algolia&row=1&column=6" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
