@@ -1,14 +1,3 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=200&section=header&text=Tsedeniya%20Dinku&fontSize=35&fontColor=ffffff" />
-</p>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full-Stack+Web+Developer;Always+Learning+and+Building;Turning+Ideas+Into+Projects&center=true&width=500&height=50">
-</p>
-
----
 
 ## Hi👋, I’m **Tsedeniya Dinku**  
 
